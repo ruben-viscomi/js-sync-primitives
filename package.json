@@ -1,0 +1,31 @@
+{
+  "name": "js-sync-primitives",
+  "version": "0.0.1",
+  "description": "A collection of synchronization primitives for JS/TS, to develop safe applications from a concurrency perspective.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruben-viscomi/js-sync-primitives.git"
+  },
+  "keywords": [
+    "synchronization",
+    "mutex",
+    "semaphore",
+    "concurrency",
+    "async",
+    "ascynchronous-programming",
+    "synchronization-primitives"
+  ],
+  "author": "Ruben Viscomi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruben-viscomi/js-sync-primitives/issues"
+  },
+  "homepage": "https://github.com/ruben-viscomi/js-sync-primitives#readme"
+}
